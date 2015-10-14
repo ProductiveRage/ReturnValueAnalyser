@@ -16,6 +16,8 @@ namespace AssignReturnValueAnalyser.Test
 			VerifyCSharpDiagnostic("");
 		}
 
+        // TODO: More cases which are correctly NOT identified as being wrong
+
         [TestMethod]
         public void DirectFunctionCallThatIgnoresValue()
         {
