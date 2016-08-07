@@ -27,7 +27,7 @@ The aim of this small project is to create an attribute which can be used to dec
 
 .. and to create an Analyser which tells me that I've made that silly mistake again, catching it long before runtime.
 
-![Analyser-in-action screenshot](http://www.productiverage.com/content/images/AssignReturnValueAnalyserScreenshot.png)
+![Analyser-in-action screenshot](http://www.productiverage.com/Content/Images/AssignReturnValueAnalyserScreenshot.png)
 
 As of October 2015, this seems to be working in most of the simple cases I've tried. There are some rough edges that I may need to find better solutions for as I iron things out.
 
